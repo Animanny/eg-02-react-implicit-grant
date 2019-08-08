@@ -1,6 +1,6 @@
 # Example 2: OAuth Implicit Grant and React example
 
-Repository: [eg-02-react-implicit-grant](https://github/docusign/eg-02-react-implicit-grant)
+Repository: [eg-02-react-implicit-grant](https://github.com/docusign/eg-02-react-implicit-grant)
 
 ## Introduction
 
